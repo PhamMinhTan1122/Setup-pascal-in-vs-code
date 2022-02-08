@@ -17,5 +17,5 @@ file task.json and launch.json
 
 8.And run code with extension Code runner 
 
-*** Code no support debug ***
+
 
