@@ -12,7 +12,7 @@
             "environment": [],
             "externalConsole": true,
             "MIMode": "gdb",
-            "miDebuggerPath": "C:\\FPC\\3.2.2\bin\\i386-win32\\gdb.exe", //the path of gdb debbuger (32 bit version)
+            "miDebuggerPath": "C:\\FPC\\3.2.2\\bin\\i386-win32\\gdb.exe", //the path of gdb debbuger (32 bit version)
             "setupCommands": [
                 {
                     "description": "Enable pretty-printing for gdb",
